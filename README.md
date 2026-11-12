@@ -3,6 +3,7 @@ This is a help repo aimed at public learning. Just example how the code and all 
 
 Helper for: 
 * https://github.com/ACC-TAX-REIGHTEEN/Auto-Input-XML-Pajak-Coretax
+* https://github.com/ACC-TAX-REIGHTEEN/PPN-Masukan-Barang-Jasa
 
 And example implementation of:
 * https://github.com/ACC-TAX-REIGHTEEN/Auto-Input-XML-Pajak-Coretax/blob/main/Dapur/0_Ftch_github%40AccTaxREighteen.py
