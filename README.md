@@ -7,6 +7,7 @@ Helper for:
 
 And example implementation of:
 * https://github.com/ACC-TAX-REIGHTEEN/Auto-Input-XML-Pajak-Coretax/blob/main/Dapur/0_Ftch_github%40AccTaxREighteen.py
+* https://github.com/ACC-TAX-REIGHTEEN/PPN-Masukan-Barang-Jasa/blob/main/Dapur/0_Ftch_github%40AccTaxREighteen.py
 
 How it work?
 * Write all your data with related code to the file name. Python will auto fill and detect this data to process all.
